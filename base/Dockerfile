@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base
+FROM gcr.io/distroless/base:debug
